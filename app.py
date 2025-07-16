@@ -66,7 +66,7 @@ def main():
         st.session_state.clear_canvas = False
     
     # Create a canvas for drawing
-    st.write("Draw a digit using the cursor or hand in the white canvas below:")
+    st.write("Draw a digit (0-9) using the cursor or hand in the white canvas below:")
     
     # Create two columns: one for canvas, one for buttons
     canvas_col, button_col = st.columns([2, 1])  # Adjust ratio as needed
