@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+keras
+torch
+fastai
+streamlit
+streamlit-drawable-canvas
