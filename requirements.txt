@@ -4,6 +4,6 @@ plotly
 scikit-learn
 keras
 torch
-fastai
+fastai==2.7.19
 streamlit
 streamlit-drawable-canvas
