@@ -2,3 +2,5 @@ The MNIST dataset is a widely used collection of handwritten digits, often emplo
 
 
 **Live URL** - https://mnistdigitpredictor.streamlit.app
+
+<img width="3024" height="1638" alt="image" src="https://github.com/user-attachments/assets/49dad967-f2a4-44e2-b490-4f78dfbafe52" />
